@@ -1,0 +1,58 @@
+/*
+style.css
+demonstrates basic CSS rules
+*/
+
+h1 {
+ font-family: "Comic Sans MS", Arial, sans-serif;
+ color: orange;
+}
+
+p {
+ color:yellow;
+ font-size:18pt;
+}
+ol {
+ list-style: upper-roman;
+ color: #eb3434;
+}
+
+body {
+ background-color:#346eeb;
+}
+
+body.third {
+ background-color:#000000;
+ font-size:100pt;
+}
+
+h1.third {
+ color:white;
+text-align: center;
+}
+
+
+a.third {
+  text-decoration: none;
+ color: yellow;
+}
+
+p.third {
+ color: black;
+text-align: center;
+}
+
+a.fourth {
+ text-decoration: none;
+ color: black;
+}
+
+p.fourth {
+ color: #1F1F1F;
+ font-size:68pt;
+}
+
+a.fifth {
+ text-decoration: none;
+ color: #1F1F1F;
+}
